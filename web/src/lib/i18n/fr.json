@@ -1259,6 +1259,7 @@
   "to_change_password": "Modifier le mot de passe",
   "to_favorite": "Ajouter aux favoris",
   "to_login": "Se connecter",
+  "to_parent": "Aller au dossier parent",
   "to_root": "Vers la racine",
   "to_trash": "Corbeille",
   "toggle_settings": "Inverser les paramètres",
